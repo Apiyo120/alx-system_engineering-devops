@@ -1,5 +1,5 @@
 #!/bin/env bash
-#Itd Displays "Best School" 10 times using a while loop.
+#It Displays "Best School" 10 times using a while loop.
 #Upon the 9th iteration, Display "Hi" before "Best School".
 
 count=0
