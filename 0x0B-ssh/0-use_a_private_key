@@ -2,4 +2,4 @@
 
 #Uses ssh to concect your server to the private key.
 
-ssh ubuntu -i ~/.ssh/school
+ssh -i ~/.ssh/school ubuntu@34.203.77.122
