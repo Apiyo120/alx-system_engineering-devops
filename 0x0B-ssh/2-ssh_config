@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#It connects to server without password.
+Host *
+     passwordAuthentication No
+     IdentifyFile ~/.ssh/school
+     SendEnv LANG lc_*
+     HashKnownHost Yes
+     GSSAPIAuthentication Yes
+     GSSAPIDelegateCrecidential No
